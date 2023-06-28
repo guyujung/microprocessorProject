@@ -5,7 +5,7 @@
 # 설계 목표: Embedded system에서 제한된 자원을 이용하여 효율적인 ARM 코드 작성
 
 
-"""주어진 목표를 위해 C code와 Assembly code를 이용하여 가장 빠르게 동작하는 코드 작성. ○ C와 Assembly를 이용한 영상 데이터 처리"""
+주어진 목표를 위해 C code와 Assembly code를 이용하여 가장 빠르게 동작하는 코드 작성. ○ C와 Assembly를 이용한 영상 데이터 처리
 
 
 딥러닝에 이용하는 CNN(Convolutional Neural Network의 기본 연산은 2D array data에 대한 convolution 
