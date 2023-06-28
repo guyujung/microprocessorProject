@@ -1,4 +1,3 @@
-# DL-Emnist
 
 # Emnist
 
